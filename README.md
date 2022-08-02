@@ -1,5 +1,5 @@
 Dessert Clicker
-============
+===============
 
 # Description
 each time the user taps a dessert on the screen, the app "purchases" the dessert for the user.
@@ -31,7 +31,6 @@ of lifecycle callback methods
 override those methods in your own activities to perform tasks in response to those lifecycle 
 state changes
 
-TODO:
 <img src="screenshots/activity-lifecycle.png" width="420" height="676" alt="Screenshot"/>
 
 ### Common attributes
